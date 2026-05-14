@@ -1,6 +1,6 @@
 # 🎓 EduTrack – Student Management System (JSP + JDBC)
 
-EduTrack is a **Student Management Web Application** built using **Java JSP, Servlets, JDBC, and MySQL**.  
+EduTrack is a **Student Management Web Application** built using **Java JSP, Servlets, JDBC, and SQLite**.  
 It helps tuition classes and educational institutes manage student records, fee payments, and analytics through a simple dashboard interface.
 
 ---
